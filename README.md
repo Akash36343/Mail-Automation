@@ -312,8 +312,8 @@ message += "<br><strong style='color: black;'> " + footerTextX3 + "</strong>";
 // Function to replace specific words with hyperlinks
 function replaceSpecificWordsWithHyperlinks(text) {
   var wordsToReplace = {
-    "MLDO-Dashboard'23": "https://lookerstudio.google.com/u/0/reporting/1027659b-9874-476c-8d97-c27b143e572c/page/p_68hsz8nv5c",
-    "go/mldoqualitydash23": "http://go/mldoqualitydash23"
+    "MLDO-Dashboard'23": "https://lookersom/u/0/reporting/102",
+    "go/mldoqualitydash23": "http://go/mld23"
   };
 
   var replacedText = text;
